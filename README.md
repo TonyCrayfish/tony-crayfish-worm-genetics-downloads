@@ -6,7 +6,7 @@
 
 A public Mac download is being prepared. **No app download has been published yet.** Once the first signed and notarized build is ready, it will appear under [Releases](https://github.com/TonyCrayfish/tony-crayfish-worm-genetics-downloads/releases). Download the app archive attached to a release; GitHub’s automatically generated “Source code” archives are not the Mac app.
 
-The current app is built for **Apple silicon Macs running macOS 14 or later**.
+The app is built for **Intel and Apple silicon Macs running macOS 14 or later**.
 
 ## About this repository
 
