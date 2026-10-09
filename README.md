@@ -4,7 +4,7 @@
 
 ## Download
 
-A public Mac download is being prepared. **No app download has been published yet.** Once the first signed and notarized build is ready, it will appear under [Releases](https://github.com/TonyCrayfish/tony-crayfish-worm-genetics-downloads/releases). Download the app archive attached to a release; GitHub’s automatically generated “Source code” archives are not the Mac app.
+Download the latest signed and notarized Mac app from [Releases](https://github.com/TonyCrayfish/tony-crayfish-worm-genetics-downloads/releases/latest). Choose the `Tony-Crayfish-Worm-Genetics-…-macOS.zip` attachment; GitHub’s automatically generated “Source code” archives are not the Mac app. Unzip the download, drag **Tony Crayfish Worm Genetics.app** into Applications, and open it.
 
 The app is built for **Intel and Apple silicon Macs running macOS 14 or later**.
 
